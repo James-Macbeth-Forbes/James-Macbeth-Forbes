@@ -35,7 +35,7 @@ Hello! I'm **James Macbeth Forbes**, a passionate programmer with a focus on Mac
 ### 🔹 Automatic Downloads Sorter
 **Description:** A program that sorts the files in your downloads folder by checking the file types of files and moving them into folders accordingly.
 
-**Tech Stack:** Java#
+**Tech Stack:** Java
 
 [🔗 View on GitHub](https://github.com/James-Macbeth-Forbes/java_downloads_sorter)
 
