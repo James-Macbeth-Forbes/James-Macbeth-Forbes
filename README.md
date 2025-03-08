@@ -23,7 +23,7 @@ Hello! I'm **James Macbeth Forbes**, a passionate programmer with a focus on Mac
 
 **Tech Stack:** Machine learning, python
 
-[🔗 View on GitHub](https://github.com/James-Macbeth-Forbes/Solar_system_simulation1)
+[🔗 View on GitHub](https://github.com/James-Macbeth-Forbes/LSTM_Stock_Prediction)
 
 ### 🔹 Solar System Simulator
 **Description:** A solar system simulator that uses real world data and Kepler's laws to accuratly simulate the movement of the planets around the sun.
